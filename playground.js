@@ -1,5 +1,8 @@
 clearScreen("black");
-drawHorizontalLine(60, 50, "blue");
+
+drawHorizontalLine(90, 80, "green");
+drawHorizontalLine(80, 70, "brown");
+drawHorizontalLine(70, 60, "blue");
 drawHorizontalLine(60, 50, "magenta");
 drawHorizontalLine(50, 50, "pink");
 drawHorizontalLine(40, 50, "green");
