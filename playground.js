@@ -1,4 +1,10 @@
 clearScreen("black");
-drawPixel(20, 20, "blue");
-drawHorizontalLine(10, 10, "green");
+drawHorizontalLine(60, 50, "blue");
+drawHorizontalLine(60, 50, "magenta");
+drawHorizontalLine(50, 50, "pink");
+drawHorizontalLine(40, 50, "green");
+drawHorizontalLine(30, 60, "yellow");
+drawHorizontalLine(20, 70, "red");
+drawHorizontalLine(10, 80, "purple");
+drawHorizontalLine(10, 90, "blue");
 console.log("hello World");
